@@ -2,7 +2,7 @@ import {
   XhrFactory,
   parseCookieValue,
   withHttpTransferCache
-} from "./chunk-OVAX7WHF.js";
+} from "./chunk-BOJQLJWM.js";
 import {
   APP_ID,
   ApplicationModule,
@@ -45,7 +45,6 @@ import {
   RendererStyleFlags2,
   RuntimeError,
   SecurityContext,
-  Subject,
   TESTABILITY,
   TESTABILITY_GETTER,
   TemplateRef,
@@ -101,7 +100,10 @@ import {
   ɵɵinject,
   ɵɵinjectAttribute,
   ɵɵstyleProp
-} from "./chunk-BRLGDEGL.js";
+} from "./chunk-NKWTGXST.js";
+import {
+  Subject
+} from "./chunk-RSS3ODKE.js";
 import {
   __async,
   __spreadProps,
@@ -7000,4 +7002,4 @@ export {
    * License: MIT
    *)
 */
-//# sourceMappingURL=chunk-MFAYRRPU.js.map
+//# sourceMappingURL=chunk-YHYGGQOG.js.map
