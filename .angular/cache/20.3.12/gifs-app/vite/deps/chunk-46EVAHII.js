@@ -2,7 +2,7 @@ import {
   XhrFactory,
   parseCookieValue,
   withHttpTransferCache
-} from "./chunk-BOJQLJWM.js";
+} from "./chunk-DDENBLIO.js";
 import {
   APP_ID,
   ApplicationModule,
@@ -12,22 +12,14 @@ import {
   ChangeDetectorRef,
   Console,
   DEFAULT_CURRENCY_CODE,
-  DOCUMENT,
-  DestroyRef,
   Directive,
-  ENVIRONMENT_INITIALIZER,
   ElementRef,
-  ErrorHandler,
   Host,
   IMAGE_CONFIG,
   IMAGE_CONFIG_DEFAULTS,
-  INJECTOR_SCOPE,
-  INTERNAL_APPLICATION_ERROR_HANDLER,
   IS_ENABLED_BLOCKING_INITIAL_NAVIGATION,
   Inject,
   Injectable,
-  InjectionToken,
-  Injector,
   Input,
   IterableDiffers,
   KeyValueDiffers,
@@ -43,7 +35,6 @@ import {
   Renderer2,
   RendererFactory2,
   RendererStyleFlags2,
-  RuntimeError,
   SecurityContext,
   TESTABILITY,
   TESTABILITY_GETTER,
@@ -51,12 +42,8 @@ import {
   Testability,
   TestabilityRegistry,
   TracingService,
-  Version,
   ViewContainerRef,
   ViewEncapsulation,
-  XSS_SECURITY_URL,
-  ZONELESS_ENABLED,
-  _global,
   _sanitizeHtml,
   _sanitizeUrl,
   allLeavingAnimations,
@@ -70,21 +57,15 @@ import {
   createNgModule,
   createPlatformFactory,
   findLocaleData,
-  formatRuntimeError,
-  forwardRef,
   getLocalePluralCase,
-  inject,
   internalCreateApplication,
   isPromise,
   isSubscribable,
-  makeEnvironmentProviders,
   numberAttribute,
   performanceMarkFeature,
   platformCore,
   setClassMetadata,
   setDocument,
-  stringify,
-  untracked,
   unwrapSafeValue,
   withDomHydration,
   withEventReplay,
@@ -92,15 +73,36 @@ import {
   withIncrementalHydration,
   ɵɵNgOnChangesFeature,
   ɵɵdefineDirective,
-  ɵɵdefineInjectable,
-  ɵɵdefineInjector,
   ɵɵdefineNgModule,
   ɵɵdefinePipe,
   ɵɵdirectiveInject,
-  ɵɵinject,
   ɵɵinjectAttribute,
   ɵɵstyleProp
-} from "./chunk-NKWTGXST.js";
+} from "./chunk-2N3NKMVR.js";
+import {
+  DOCUMENT,
+  DestroyRef,
+  ENVIRONMENT_INITIALIZER,
+  ErrorHandler,
+  INJECTOR_SCOPE,
+  INTERNAL_APPLICATION_ERROR_HANDLER,
+  InjectionToken,
+  Injector,
+  RuntimeError,
+  Version,
+  XSS_SECURITY_URL,
+  ZONELESS_ENABLED,
+  _global,
+  formatRuntimeError,
+  forwardRef,
+  inject,
+  makeEnvironmentProviders,
+  stringify,
+  untracked,
+  ɵɵdefineInjectable,
+  ɵɵdefineInjector,
+  ɵɵinject
+} from "./chunk-IFNXGSBF.js";
 import {
   Subject
 } from "./chunk-RSS3ODKE.js";
@@ -7002,4 +7004,4 @@ export {
    * License: MIT
    *)
 */
-//# sourceMappingURL=chunk-YHYGGQOG.js.map
+//# sourceMappingURL=chunk-46EVAHII.js.map
